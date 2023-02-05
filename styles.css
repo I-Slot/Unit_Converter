@@ -11,7 +11,8 @@ body{
 
 .input-div h1{
     color: white;
-    margin-top: 0;
+    
+   
 }
 
 button{
@@ -48,8 +49,23 @@ font-weight: bold;
     max-width: 95%;
     margin-right: auto;
     margin-left: auto;
+    /* padding: 10px; */
     
 }
  h2{
     margin-bottom: 5px ;
+    margin-top: 0;
+}
+
+#meter {
+    margin-top: 20px;
+    padding: 20px;
+}
+#liter {
+    margin-top: 20px;
+    padding: 20px;
+}
+#kilogram {
+    margin-top: 20px;
+    padding: 20px;
 }
